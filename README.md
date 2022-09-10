@@ -1,2 +1,2 @@
-# Flappy Bird with Phaser.js
+# Flappy Bird
 Flappy bird game. Created with Phaser.js
